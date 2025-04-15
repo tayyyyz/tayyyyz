@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Alejandro!
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/alejandrotaym/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
@@ -38,15 +38,10 @@ My goal is to become a **Full Stack Developer**, combining both front-end and ba
   </div>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tayyyyz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tayyyyz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="144" alt="languages graph" />
-
 # 💻 Tech Stack:
 
 <div align="center">
+  
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&label=&color=00599C&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
@@ -62,4 +57,14 @@ My goal is to become a **Full Stack Developer**, combining both front-end and ba
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="35" />
   </a>
+
+  
 </div>
+ 
+ # 📊 GitHub Stats:
+<div align="center">
+   <img width=400 src="https://github-readme-stats.vercel.app/api?username=tayyyyz&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" height='157px'/>
+   <img width=400 src="https://streak-stats.demolab.com/?user=tayyyyz&count_private=true&theme=react&border_radius=10" alt="streak stats" height='163px'/>
+ </div>
+
+
