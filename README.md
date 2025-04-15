@@ -1,6 +1,5 @@
 <h1 align="center"><b>Hi , I'm Alejandro Tay </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpsbm0ybXZ5N3hkbTY1NHo1bmxtaWJvZ3BuaDl4Yno3bjFkM3d0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ze3Wsagdq1vP3koDKm/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -12,7 +11,7 @@ My goal is to become a **Full Stack Developer**, combining both front-end and ba
 
 <div style="display: flex; align-items: flex-start;">
   <div>
-    <img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd6b2R2b3FhbDg3d3BuYTFsMDdrNWJidWI3MjR5ZnI1cjhkbWpsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="220px"/>
+    <img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd6b2R2b3FhbDg3d3BuYTFsMDdrNWJidWI3MjR5ZnI1cjhkbWpsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="180px"/>
   </div>
 
   <div>
