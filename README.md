@@ -4,9 +4,9 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpsbm0ybXZ5N3hkbTY1NHo1bmxtaWJvZ3BuaDl4Yno3bjFkM3d0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ze3Wsagdq1vP3koDKm/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an aspiring web developer with a strong interest in **front-end development** and a growing curiosity for **back-end technologies**. Currently learning how to build websites from the ground up, I'm passionate about creating interactive and user-friendly interfaces that provide great user experiences 🎨💻.
+I’m a **Software Engineering** student and an aspiring **Full Stack Developer** 🚀. I’m currently exploring both **front-end** 🎨 and **back-end** 💻 development, building small projects to strengthen my skills.
 
-My goal is to become a **Full Stack Developer**, combining both front-end and back-end skills to build complete and impactful web applications. I enjoy solving problems, learning new tools and frameworks, and constantly pushing myself to grow in the tech world. I'm especially excited about the possibilities that modern web development offers and look forward to contributing to meaningful projects as I advance in my journey 🚀.
+I enjoy creating user-friendly and creative experiences, and I’m always excited to learn new technologies and grow in the world of web development 🌐.
 
 <br/>
 
