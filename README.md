@@ -11,7 +11,7 @@ My goal is to become a **Full Stack Developer**, combining both front-end and ba
 
 <div style="display: flex; align-items: flex-start;">
   <div>
-    <img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd6b2R2b3FhbDg3d3BuYTFsMDdrNWJidWI3MjR5ZnI1cjhkbWpsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="180px"/>
+    <img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWd6b2R2b3FhbDg3d3BuYTFsMDdrNWJidWI3MjR5ZnI1cjhkbWpsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="150px"/>
   </div>
 
   <div>
