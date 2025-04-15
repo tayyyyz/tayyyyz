@@ -1,19 +1,8 @@
-## Hey 👋, I'm Alejandro!
+<h1 align="center"><b>Hi , I'm Alejandro Tay </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<div align="center">
-  <a href="https://www.instagram.com/alejandrotaym/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://discord.com/users/tayyyyy_1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alejandroatmbrit@gmail.com&su=Consulta" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/alejandrotaymarquez/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-</div>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWpsbm0ybXZ5N3hkbTY1NHo1bmxtaWJvZ3BuaDl4Yno3bjFkM3d0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ze3Wsagdq1vP3koDKm/giphy.gif" width="30px">&nbsp;***About me***
 
 I am an aspiring web developer with a strong interest in **front-end development** and a growing curiosity for **back-end technologies**. Currently learning how to build websites from the ground up, I'm passionate about creating interactive and user-friendly interfaces that provide great user experiences 🎨💻.
 
@@ -27,7 +16,6 @@ My goal is to become a **Full Stack Developer**, combining both front-end and ba
   </div>
 
   <div>
-    <h3>🧐 More About Me:</h3>
     <ul>
       <li>🌱 &nbsp; Exploring the world of <strong>Full Stack Development</strong></li>
       <li>👨🏻‍💻 &nbsp; My projects live on <a href="https://github.com/tayyyyz">Github</a></li>
@@ -38,30 +26,38 @@ My goal is to become a **Full Stack Developer**, combining both front-end and ba
   </div>
 </div>
 
-# 💻 Tech Stack:
+## 💻 My skills include:
 
 <div align="center">
   
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&label=&color=00599C&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="35" />
-  </a>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  </div>
 
+## 📱 Check out my Social Media
+  
+<div align="center">
+  
+  <a href="https://www.instagram.com/alejandrotaym/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/tayyyyy_1">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=alejandroatmbrit@gmail.com&su=Consulta">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/alejandrotaymarquez/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</div>
   
 </div>
  
- # 📊 GitHub Stats:
+ ## 📊 GitHub Stats:
 <div align="center">
    <img width=400 src="https://github-readme-stats.vercel.app/api?username=tayyyyz&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" height='157px'/>
    <img width=400 src="https://streak-stats.demolab.com/?user=tayyyyz&count_private=true&theme=react&border_radius=10" alt="streak stats" height='163px'/>
